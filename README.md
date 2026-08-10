@@ -59,9 +59,6 @@
 <img src="https://cdn.simpleicons.org/bambulab" height="48" alt="Bambu Lab">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="./assets/openai.svg" height="48" alt="Codex">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude">
 
 <br><br>
@@ -76,8 +73,6 @@ Blender
 SOLIDWORKS
 &nbsp;&nbsp;/&nbsp;&nbsp;
 Bambu Lab
-&nbsp;&nbsp;/&nbsp;&nbsp;
-Codex
 &nbsp;&nbsp;/&nbsp;&nbsp;
 Claude
 </sub>
