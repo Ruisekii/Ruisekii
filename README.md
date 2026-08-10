@@ -1,14 +1,32 @@
-<div align="center">
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
 
-<img src="./assets/RUISEKII2.png" width="230" alt="RUISEKII">
+<img src="./assets/RUISEKII2.png" width="260" alt="RUISEKII">
 
-<br>
+</td>
+
+<td width="66%" valign="middle">
 
 # R U I S E K I I
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=800&color=A6FF00&center=true&vCenter=true&width=700&lines=Robotics+%2F+Software+%2F+AI;Mechanical+Design+%2F+Automation;Building+ideas+into+things.)](https://git.io/typing-svg)
+高専で情報工学を学びながら、  
+**Robotics / Software / Mechanical Design / AI** を横断してものづくりをしています。
 
-</div>
+設計して、作って、試して、改善するところまで。  
+アイデアを実際に動くものにすることが好きです。
+
+<br>
+
+`KOSEN Student`　`Robotics`　`Software`　`CAD`　`AI`
+
+<br>
+
+[GitHub](https://github.com/Ruisekii) · [わりレシ](https://github.com/Ruisekii/warirece)
+
+</td>
+</tr>
+</table>
 
 ---
 
