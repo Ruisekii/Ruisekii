@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ruisekii-logo.png" width="230" alt="RUISEKII">
+<img src="C:\ALL COME\github\profile\RUISEKII2.png" width="230" alt="RUISEKII">
 
 <br><br>
 
@@ -10,12 +10,12 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-A6FF00?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/STATUS-BUILDING-A6FF00?style=for-the-badge&labelColor=0D1117">
+`ROBOTICS / SOFTWARE / AI / CAD / AUTOMATION`
 
 <br><br>
 
-`ROBOTICS / SOFTWARE / AI / CAD / AUTOMATION`
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-A6FF00?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-A6FF00?style=for-the-badge&labelColor=0D1117">
 
 </div>
 
@@ -40,9 +40,9 @@ STATUS        BUILDING SOMETHING
 <div align="center">
 
 ```text
-ideas are cheap.
-prototypes are better.
-systems change the world.
+アイデアだけなら簡単だ。
+試作品のほうが価値がある。
+仕組みは世界を変える。
 ```
 
 </div>
@@ -70,13 +70,13 @@ systems change the world.
 <br><br>
 
 ```text
-C          systems / control / embedded
-PYTHON     automation / AI / experiments
-BLENDER    modeling / visualization
-SOLIDWORKS mechanical design / CAD
-BAMBU LAB  rapid prototyping
-CODEX      coding / development
-CLAUDE     coding / exploration
+C          システム / 制御 / 組み込み
+PYTHON     自動化 / AI / 実験
+BLENDER    モデリング / 可視化
+SOLIDWORKS 機械設計 / CAD
+BAMBU LAB  ラピッドプロトタイピング
+CODEX      コーディング / 開発
+CLAUDE     コーディング / 探究
 ```
 
 </div>
@@ -93,11 +93,11 @@ CLAUDE     coding / exploration
 ### 01 / ROBOTICS
 
 ```text
-Mechanical systems
-Mechanism design
-Control systems
-Robot architecture
-Real-world prototyping
+機械システム
+機構設計
+制御システム
+ロボット全体設計
+実機プロトタイピング
 ```
 
 `MECHANICAL` `CONTROL` `ROBOT`
@@ -109,11 +109,11 @@ Real-world prototyping
 ### 02 / SOFTWARE
 
 ```text
-Web applications
-Developer tools
-Automation
-System design
-Rapid prototyping
+Webアプリケーション
+開発者向けツール
+自動化
+システム設計
+高速プロトタイピング
 ```
 
 `WEB` `TOOLS` `AUTOMATION`
@@ -130,10 +130,10 @@ Rapid prototyping
 
 ```text
 SolidWorks
-Mechanical design
-Design automation
-Engineering utilities
-Manufacturing workflow
+機械設計
+設計自動化
+エンジニアリングツール
+製作ワークフロー
 ```
 
 `CAD` `DESIGN` `SOLIDWORKS`
@@ -145,11 +145,11 @@ Manufacturing workflow
 ### 04 / AI
 
 ```text
-AI products
-LLM experiments
-Computer vision
-Development agents
-Practical automation
+AIプロダクト
+LLM実験
+コンピュータビジョン
+開発エージェント
+実用的な自動化
 ```
 
 `AI` `LLM` `VISION`
@@ -171,13 +171,13 @@ Practical automation
 
 ### WARIRECE
 
-**Receipt recognition and splitting system.**
+**レシート認識・割り勘システム。**
 
-Turning an annoying everyday task into a simple product.
+日常の面倒な作業を、シンプルなプロダクトに変える。
 
 `WEB` `AI` `OCR` `PRODUCT`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Ruisekii/warirece">
 <img src="https://img.shields.io/badge/OPEN_REPOSITORY-→-A6FF00?style=for-the-badge&labelColor=111111">
@@ -189,11 +189,11 @@ Turning an annoying everyday task into a simple product.
 
 ### SOLIDWORKS TOOLS
 
-**Tools for mechanical-design workflows.**
+**機械設計のワークフローを改善するツール。**
 
-Automating repetitive CAD work and making engineering faster.
+繰り返しのCAD作業を自動化し、設計をもっと速く、もっと楽にする。
 
-`CAD` `AUTOMATION` `ADD--IN`
+`CAD` `AUTOMATION` `ADD-IN`
 
 </td>
 
@@ -205,9 +205,9 @@ Automating repetitive CAD work and making engineering faster.
 
 ### ROBOTICS
 
-**Machines that exist outside the screen.**
+**画面の外で、実際に動くものを作る。**
 
-Mechanisms, CAD, control, electronics and actual prototypes.
+機構、CAD、制御、電子回路まで含めて、現実世界で動くシステムを形にする。
 
 `MECHANICAL` `CONTROL` `BUILD`
 
@@ -217,9 +217,10 @@ Mechanisms, CAD, control, electronics and actual prototypes.
 
 ### EXPERIMENTS
 
-**Ideas that probably should not stay ideas.**
+**アイデアのまま終わらせたくないもの。**
 
-Games, AI tools, web apps and strange prototypes.
+ゲーム、AIツール、Webアプリ、便利ツール。
+思いついたものを、とにかく一度形にする。
 
 `GAME` `WEB` `AI` `LAB`
 
@@ -281,19 +282,35 @@ Games, AI tools, web apps and strange prototypes.
 ```text
 01  THINK
       |
+      └─ 考える
+
 02  DESIGN
       |
+      └─ 設計する
+
 03  BUILD
       |
+      └─ 作る
+
 04  TEST
       |
+      └─ 試す
+
 05  BREAK
       |
+      └─ 壊す
+
 06  LEARN
       |
+      └─ 学ぶ
+
 07  REBUILD
       |
+      └─ 作り直す
+
 08  REPEAT
+      |
+      └─ 繰り返す
 ```
 
 <div align="center">
@@ -304,7 +321,7 @@ Games, AI tools, web apps and strange prototypes.
 
 ```text
 ────────────────────────────────────────────────────
-BUILDING THINGS FROM IDEAS
+アイデアを、形にする。
 ────────────────────────────────────────────────────
 ```
 
