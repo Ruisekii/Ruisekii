@@ -44,14 +44,43 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,blender&theme=dark" height="48">
+<img src="https://cdn.simpleicons.org/c" height="48" alt="C">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/python" height="48" alt="Python">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/blender" height="48" alt="Blender">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/solidworks-cad.svg" height="48" alt="SOLIDWORKS">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/bambulab" height="48" alt="Bambu Lab">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/openai.svg" height="48" alt="Codex">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-Mechanical_Design-222222?style=flat-square">
-<img src="https://img.shields.io/badge/Bambu_Lab-3D_Printing-222222?style=flat-square">
-<img src="https://img.shields.io/badge/Codex-AI_Development-222222?style=flat-square">
-<img src="https://img.shields.io/badge/Claude-AI_Development-222222?style=flat-square">
+<sub>
+C
+&nbsp;&nbsp;/&nbsp;&nbsp;
+Python
+&nbsp;&nbsp;/&nbsp;&nbsp;
+Blender
+&nbsp;&nbsp;/&nbsp;&nbsp;
+SOLIDWORKS
+&nbsp;&nbsp;/&nbsp;&nbsp;
+Bambu Lab
+&nbsp;&nbsp;/&nbsp;&nbsp;
+Codex
+&nbsp;&nbsp;/&nbsp;&nbsp;
+Claude
+</sub>
 
 </div>
 
