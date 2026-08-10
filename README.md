@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ruisekii.png" width="230" alt="RUISEKII">
+<img src="./assets/ruisekii2.png" width="230" alt="RUISEKII">
 
 <br>
 
@@ -89,7 +89,5 @@ SolidWorks向けツール・自動化機能を開発しています。
 ---
 
 <div align="center">
-
-`IDEA → DESIGN → BUILD`
 
 </div>
