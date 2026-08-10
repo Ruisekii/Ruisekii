@@ -1,3 +1,11 @@
+<div align="center">
+
+# R U I S E K I I
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=500&color=63FF3B&center=true&vCenter=true&width=900&height=70&lines=%3E+BUILDING+THINGS+FROM+IDEAS;%3E+ROBOTICS+%2F+SOFTWARE+%2F+AI;%3E+DESIGN+%2F+BUILD+%2F+BREAK+%2F+REBUILD;%3E+SYSTEM+ONLINE)](https://git.io/typing-svg)
+
+`ROBOTICS // SOFTWARE // AI // CAD // AUTOMATION`
+
 </div>
 
 ---
@@ -15,10 +23,23 @@ LOCATION      JAPAN
 
 > ideas are cheap.
 > prototypes are better.
+```
+
+---
+
 <div align="center">
-// TOOLCHAIN
-<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,git,github,vscode,visualstudio,unity,blender,arduino&theme=dark" /> </div>
-// CURRENT SYSTEMS
+
+## // TOOLCHAIN
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css,git,github,vscode,visualstudio,unity,blender,arduino&theme=dark" />
+
+</div>
+
+---
+
+## // CURRENT SYSTEMS
+
+```text
 [01] ROBOTICS
      Mechanical systems / mechanisms / control
 
@@ -30,33 +51,60 @@ LOCATION      JAPAN
 
 [04] ARTIFICIAL INTELLIGENCE
      AI-powered products / experiments
-// SELECTED PROJECTS
-<table> <tr> <td width="50%">
-WARIRECE
+```
+
+---
+
+## // SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### WARIRECE
 
 Receipt splitting application.
 
-WEB AI OCR
+`WEB` `AI` `OCR`
 
-</td> <td width="50%">
-SOLIDWORKS TOOLS
+</td>
+<td width="50%">
+
+### SOLIDWORKS TOOLS
 
 Mechanical design automation.
 
-CAD AUTOMATION TOOLS
+`CAD` `AUTOMATION` `TOOLS`
 
-</td> </tr> <tr> <td width="50%">
-ROBOTICS
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ROBOTICS
 
 Robot mechanisms and system design.
 
-MECHANICAL CONTROL
+`MECHANICAL` `CONTROL`
 
-</td> <td width="50%">
-EXPERIMENTS
+</td>
+<td width="50%">
+
+### EXPERIMENTS
 
 Small tools, games and strange ideas.
 
-AI WEB PROTOTYPE
+`AI` `WEB` `PROTOTYPE`
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`[ BUILD ] ---- [ TEST ] ---- [ BREAK ] ---- [ REBUILD ]`
+
+</div>
