@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+>
+  <g
+    stroke="#A6FF00"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- wireframe cube -->
+    <path d="M32 6 L52 18 L32 30 L12 18 Z"/>
+    <path d="M12 18 V42 L32 54 L52 42 V18"/>
+    <path d="M32 30 V54"/>
+    <path d="M32 6 V30"/>
+
+    <!-- construction geometry -->
+    <path d="M18 15 L46 45" opacity=".45"/>
+    <circle cx="32" cy="30" r="4" opacity=".65"/>
+
+    <!-- CAD axes -->
+    <path d="M8 54 H19"/>
+    <path d="M8 54 V43"/>
+    <path d="M8 54 L14 48"/>
+  </g>
+</svg>
