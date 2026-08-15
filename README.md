@@ -2,7 +2,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="./assets/RUISEKII2.png" width="260" alt="RUISEKII">
+<img src="./assets/profi.jpg" width="260" alt="RUISEKII">
 
 </td>
 
