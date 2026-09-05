@@ -22,7 +22,7 @@
 
 <br>
 
-[GitHub](https://github.com/Ruisekii) · [わりレシ](https://wari-receipt-jp.wiggly-tern-4422.chatgpt.site/)
+[GitHub](https://github.com/Ruisekii) · [わりレシ](https://01-warirece.ramune-ch.com/)
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ Claude
 寮生活の経験をもとに、みんなで割り勘、、だけどこの商品は俺だけ。。
 という計算の大変さを解決するために開発。
 
-[View Web-app](https://wari-receipt-jp.wiggly-tern-4422.chatgpt.site/)
+[View Web-app](https://01-warirece.ramune-ch.com/)
 
 `WEB` `AI` `OCR`
 
