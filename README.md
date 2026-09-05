@@ -90,7 +90,7 @@ Claude
 寮生活の経験をもとに、みんなで割り勘、、だけどこの商品は俺だけ。。
 という計算の大変さを解決するために開発。
 
-[View Web-app](https://01-warirece.ramune-ch.com/)
+[01-warirece.ramune-ch.com](https://01-warirece.ramune-ch.com/)
 
 `WEB` `AI` `OCR`
 
